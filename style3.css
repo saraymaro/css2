@@ -1,0 +1,22 @@
+
+span{
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+}
+body{
+    background-color: lightblue;
+}
+table{
+    background-color: bisque;
+    border: solid thick black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.border{
+    border-bottom: solid medium black;
+    border-left: solid thin black;
+}
+tfoot{
+    background-color: aqua;
+}

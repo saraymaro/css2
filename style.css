@@ -1,0 +1,15 @@
+div{
+    padding: 30px;
+    border-top-color: green;
+    border-top-width: medium;
+    border-top-style: dotted;
+    border-right-color: blue;
+    border-right-width: thick;
+    border-right-style: dashed;
+    border-bottom-color: red;
+    border-bottom-width: medium;
+    border-bottom-style: solid;
+    border-left-color: black;
+    border-left-width: thick;
+    border-left-style: double;
+}
